@@ -15,8 +15,8 @@ h1 {
 
 main {
     max-width: 600px;
-    width: 90%
-    margin: auto;
+    width: auto;
+    margin: 0 auto;
 }
 
 .post {
@@ -24,6 +24,7 @@ main {
     padding: 25px;
     margin-bottom: 30px;
     border-radius: 20px;
+    box-sizing: boarder-box;
 }
 
 .post img {
@@ -53,6 +54,6 @@ audio {
 
 @media (max-width: 600px) {
     audio {
-        width: 100%;
+        max-width: 100%;
     }
 }
