@@ -1,1 +1,36 @@
+---
+---
 
+body {
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  background: white;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
+
+.post-card {
+  background: white;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.post-card h2 a {
+  color: black;
+  text-decoration: none;
+}
+
+.date {
+  color: gray;
+  font-size: 14px;
+}
