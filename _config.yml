@@ -1,9 +1,0 @@
-title: "Emma's close friends"
-description: "close friends website ?"
-
-markdown: kramdown
-
-theme: minima
-
-sass:
-  style: compressed
