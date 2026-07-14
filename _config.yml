@@ -1,1 +1,6 @@
-
+title: Emma's close friends
+description: close friends website ?
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
