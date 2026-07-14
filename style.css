@@ -15,8 +15,7 @@ h1 {
 
 main {
     max-width: 600px;
-    width: auto;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .post {
@@ -24,7 +23,6 @@ main {
     padding: 25px;
     margin-bottom: 30px;
     border-radius: 20px;
-    box-sizing: boarder-box;
 }
 
 .post img {
@@ -46,14 +44,4 @@ main {
     font-family: Georgia, serif;
     font-size: 16px;
     box-sizing: border-box;
-}
-
-audio {
-    max-width: 100%;
-}
-
-@media (max-width: 600px) {
-    audio {
-        max-width: 100%;
-    }
 }
