@@ -46,6 +46,6 @@ main {
     box-sizing: border-box;
 }
 
-.songs-page {
+body.songs-page {
     background-color: #35fc67;
 }
