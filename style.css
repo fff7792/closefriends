@@ -13,6 +13,10 @@ h1 {
     color: #6b4f3f;
 }
 
+body.songs-page h1 {
+    color: #35fcfc;
+}
+
 main {
     max-width: 600px;
     margin: auto;
